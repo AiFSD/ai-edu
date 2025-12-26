@@ -1,0 +1,15 @@
+.about{
+     color: #13315c; 
+}
+.details{
+     font-size:30px;
+}
+.head1{
+     color:#0b2545;
+}
+.enter-btn{
+     display: flex;     
+    gap: 20px;
+    justify-content:center;
+    box-shadow: 5px 5px 5px 5px black;
+}

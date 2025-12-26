@@ -1,0 +1,18 @@
+.head {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+  color:red;
+  text-align:center;
+  margin-left:70px;
+}
+
+
+.world{
+     font-size:40px;
+}
+.navv{
+     background-color:aliceblue;
+}
