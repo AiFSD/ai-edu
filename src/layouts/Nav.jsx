@@ -1,14 +1,14 @@
 import { navLinks } from "../datas/LinkData";
-
+import "../styles/nav.css"
 const Nav = () => {
   return (
-    <div className="container ">
+    <div className="navBar bg-light p-4 mt-5">
       <div className="btn-group"  style={{display:"flex",gap:"10px" , justifyContent:"center",fontFamily:"sans-serif" }}>
         {navLinks.map((item) => (
           <div key={item.id}>
             <button
               type="button"
-              className="btn btn-subtle dropdown-toggle"
+              className="btn btn-subtle dropdown-toggle" style={{fontSize:"27px"}}
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >

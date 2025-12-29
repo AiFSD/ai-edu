@@ -6,15 +6,12 @@ const About = () => {
 
     <div className="container-fluid text-center mt-5 p-5">
     <div className="col"> 
-     <h2 className="head1">About VERSACE</h2>
+     <h2 className="head1">About Hire Here</h2>
     </div>
     <br></br>
     <br></br>
     <div className="col"> <p className="details"> <span className="about">"Built by Developers, for Developers."</span> We’re a community-driven platform where freelance meets open source. Post your work, find collaborators, and keep the code free for everyone.</p></div>
-    <div className="col p-5 enter-btn">
-     <button type="button" className="btn btn-dark">Log In</button>
-     <button type="button" className="btn btn-dark">SIGN UP</button>
-    </div>
+   
 </div>
 
 

@@ -1,12 +1,12 @@
 .head {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 10px;
   font-style: normal;
 
   color:red;
   text-align:center;
-  margin-left:70px;
+  
 }
 
 
@@ -14,5 +14,13 @@
      font-size:40px;
 }
 .navv{
-     background-color:aliceblue;
+     background-color:white;
+     box-shadow: 5px 5px 10px black;
+   
+}
+.enter-btn {
+     display: flex;
+     gap: 20px;
+     justify-content: center;
+
 }
