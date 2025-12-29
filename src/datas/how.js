@@ -1,15 +1,17 @@
+import image1 from "../videos/clientHow.jpeg"
+import image2 from "../videos/payHow.jpeg"
 export const howData = [
   {
     id: 10,
     imagepath:
-      "https://i.pinimg.com/736x/10/48/14/104814a73d3a46b046d9d148d3a91fbf.jpg",
+     image1,
     descp: "Get proposals and hire Screen",
     sponc: "  interview, or book a consult with an expert before hiring.",
   },
   {
     id: 11,
     imagepath:
-      "https://i.pinimg.com/736x/10/48/14/104814a73d3a46b046d9d148d3a91fbf.jpg",
+     image2,
     descp: "Pay when work is done",
     sponc:
       "  Release payments after approving work, by milestone or upon project completion.",

@@ -4,13 +4,13 @@ const HireVid = () => {
   return (
     <div style={{display:"flex" , justifyContent:"center"}}>
       <video
-        style={{ width: "30%", height: "220px"  }}
+      width={1000}
+        height={500}
         src={hireVid}
         autoPlay
-        loop
+     
         muted
         playsInline
-        controls
       ></video>
     </div>
   );

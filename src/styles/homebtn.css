@@ -1,0 +1,12 @@
+body{
+background-color:white;
+}
+.con-reg{
+     border:2px solid white;
+     color:black;
+     text-align:center;
+  display:flex;
+flex-direction:column;
+gap:50px;
+margin-top:150px;
+}

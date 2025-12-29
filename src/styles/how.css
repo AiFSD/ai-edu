@@ -1,0 +1,18 @@
+.vid-class{
+     height:350px;
+     width:380px;
+}
+.cards-t{
+     width:390px;
+    
+}
+.con-how{
+     margin-top:100px;
+     display:flex;
+     justify-content:center;
+     
+}
+.card-b{
+     margin-top:130px;
+     border:1px solid black;
+}
